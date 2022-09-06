@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Max\Documents\Dev\GameOfLife\include\Util.h(11,2): warning C4091: 'static ': ignored on left of 'Util' when no variable is declared
+C:\Users\Max\Documents\Dev\GameOfLife\src\Main.cpp(15,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Max\Documents\Dev\GameOfLife\src\Main.cpp(62,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameOfLife.vcxproj -> C:\Users\Max\Documents\Dev\GameOfLife\x64\Debug\GameOfLife.exe
